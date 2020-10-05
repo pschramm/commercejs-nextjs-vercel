@@ -50,7 +50,7 @@ class Product extends Component {
     return (
       <Root>
         <Head>
-          <title>{ product.name } | commerce</title>
+          <title>{ product.name } | Shadowplay Relics</title>
         </Head>
 
         <div className="py-5 my-5">

@@ -34,12 +34,12 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css"
           />
-          <meta property="og:title" content="Commerce.js | Demo storefront" />
+          <meta property="og:title" content="Shadowplay Relics | Demo storefront" />
           <meta property="og:image" content="https://i.ibb.co/m8dVzrG/demo-preview-2.png" />
-          <meta property="og:description" content="A custom, open source demo storefront built with Commerce.js, Next.js and deployed to Vercel. Take a look!" />
+          <meta property="og:description" content="Shadowplay Relics | Demo storefront - A custom, open source demo storefront built with Commerce.js, Next.js and deployed to Vercel. Take a look!" />
           <meta property="og:url" content="https://commercejs-vercel-demo-store.now.sh" />
-          <meta property="twitter:title" content="Commerce.js | Demo storefront" />
-          <meta name="twitter:creator" content="@commercejs" />
+          <meta property="twitter:title" content="Shadowplay Relics | Demo storefront" />
+          <meta name="twitter:creator" content="@shadowplayrelics" />
           <meta property="twitter:image" content="https://i.ibb.co/m8dVzrG/demo-preview-2.png" />
           <meta property="twitter:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
           <meta name="twitter:card" content="summary_large_image" />
